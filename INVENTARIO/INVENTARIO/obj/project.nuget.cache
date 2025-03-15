@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AW+2bUTBd2g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalel\\Desktop\\INVENTARIO\\INVENTARIO\\INVENTARIO.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalel\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.3\\system.configuration.configurationmanager.9.0.3.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\system.data.oledb\\9.0.3\\system.data.oledb.9.0.3.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.3\\system.diagnostics.eventlog.9.0.3.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.3\\system.diagnostics.performancecounter.9.0.3.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.3\\system.security.cryptography.protecteddata.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
